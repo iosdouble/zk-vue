@@ -24,7 +24,7 @@ export default {
   },
   data() {
     return {
-      title: 'Pre权限管理系统',
+      title: '智酷监控系统',
       logo: 'https://gitee.com/li_haodong/picture_management/raw/master/pic/WechatIMG9.png'
     }
   }
