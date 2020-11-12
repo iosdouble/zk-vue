@@ -8,7 +8,7 @@
     <div class="login-right">
       <div class="title-container">
         <h3 class="title">
-          PRE 权限后台系统登录
+          智酷互动监控系统
         </h3>
       </div>
       <el-tabs v-model="activeName" @tab-click="handleClick">
